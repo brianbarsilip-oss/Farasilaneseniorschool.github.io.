@@ -1,2 +1,2 @@
 # Farasilaneseniorschool.github.io.
-School Offical Website
+School Official Website
